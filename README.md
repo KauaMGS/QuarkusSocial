@@ -1,3 +1,7 @@
+# QuarkusSocial
+
+Project developed using Java with the Quarkus framework for creating a RESTful social media API, done alongside the course Aprenda Quarkus e desenvolva API's RESTfull poderosas em Java, by Dougllas Sousa.
+
 # quarkus-social
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -60,4 +64,4 @@ If you want to learn more about building native executables, please consult <htt
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
-# QuarkusSocial
+
